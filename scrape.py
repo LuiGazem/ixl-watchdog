@@ -225,6 +225,11 @@ def fetch_today():
 
             note("url after login: " + page.url)
             if "signin" in page.url:
+                shot(page, "00_login_failed.png")
+                try:
+                    pathlib.Path("recon/00_login_failed.html").write_text(page.content())
+                except Exception:
+                    pass
                 raise RuntimeError("login did not complete, still on signin")
 
             page.goto(REPORT_URL, wait_until="networkidle", timeout=45000)
