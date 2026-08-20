@@ -178,6 +178,24 @@ def set_range_today(page):
     return clicked
 
 
+def wait_for_profile(page, profile, tries=6):
+    """The picker can be slow. Poll for it instead of guessing a sleep."""
+    for i in range(tries):
+        for sel in ["text=" + profile, "img[alt*='" + profile + "']",
+                    "[class*='profile']:has-text('" + profile + "')"]:
+            try:
+                el = page.locator(sel).first
+                if el.count() > 0 and el.is_visible():
+                    el.click()
+                    note("clicked profile on attempt " + str(i + 1))
+                    return True
+            except Exception:
+                pass
+        page.wait_for_timeout(2500)
+    note("profile picker never appeared after " + str(tries) + " tries")
+    return False
+
+
 def fetch_today():
     with sync_playwright() as p:
         browser = p.chromium.launch()
@@ -198,7 +216,9 @@ def fetch_today():
             page.wait_for_timeout(6000)
 
             profile = config.IXL_PROFILE or ""
-            if try_click(page, ["text=" + profile, "img[alt*='" + profile + "']"], "profile"):
+            if not profile:
+                raise RuntimeError("IXL_PROFILE secret is not set")
+            if wait_for_profile(page, profile):
                 page.wait_for_timeout(3000)
                 if config.IXL_PROFILE_PASS:
                     enter_secret_word(page, config.IXL_PROFILE_PASS)
