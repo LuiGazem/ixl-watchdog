@@ -34,8 +34,8 @@ def note(msg):
     LOG.append(str(msg))
 
 
-def shot(page, name):
-    if not config.RECON:
+def shot(page, name, force=False):
+    if not (config.RECON or force):
         return
     RECON_DIR.mkdir(exist_ok=True)
     try:
@@ -225,11 +225,14 @@ def fetch_today():
 
             note("url after login: " + page.url)
             if "signin" in page.url:
-                shot(page, "00_login_failed.png")
+                shot(page, "00_login_failed.png", force=True)
                 try:
-                    pathlib.Path("recon/00_login_failed.html").write_text(page.content())
-                except Exception:
-                    pass
+                    RECON_DIR.mkdir(exist_ok=True)
+                    (RECON_DIR / "00_login_failed.html").write_text(page.content()[:900000])
+                    (RECON_DIR / "00_login_failed_log.txt").write_text("\n".join(LOG))
+                    note("dumped login failure html")
+                except Exception as e:
+                    note("html dump failed " + str(e))
                 raise RuntimeError("login did not complete, still on signin")
 
             page.goto(REPORT_URL, wait_until="networkidle", timeout=45000)
@@ -279,7 +282,7 @@ def fetch_today():
         except Exception:
             note("FATAL")
             note(traceback.format_exc())
-            shot(page, "99_crash.png")
+            shot(page, "99_crash.png", force=True)
             if config.RECON:
                 RECON_DIR.mkdir(exist_ok=True)
                 (RECON_DIR / "log.txt").write_text("\n".join(LOG))
