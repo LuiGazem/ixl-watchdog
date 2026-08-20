@@ -232,7 +232,7 @@ def refresh():
             return False
         print("scrape triggered")
         time.sleep(20)
-        for _ in range(14):
+        for _ in range(24):
             q = subprocess.run(
                 [GH, "run", "list", "--workflow", "ixl-watchdog", "--limit", "1",
                  "--json", "status,conclusion",
@@ -301,8 +301,8 @@ def main():
             and d.get("questions", 0) == 0 and d.get("minutes", 0) == 0):
         flag("allzero", "today reads 0 skills, 0 questions, 0 minutes. That usually means a broken parser, not a lazy day.")
 
-    if not ok_refresh:
-        flag("stale", "could not trigger a fresh scrape. Numbers may be stale.")
+    if not ok_refresh and "fails" not in st["flags"]:
+        flag("stale", "could not refresh from IXL. Numbers may be stale.")
 
     if test:
         imessage(KID, kid_behind(17, d))
