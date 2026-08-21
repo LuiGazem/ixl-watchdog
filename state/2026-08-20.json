@@ -2,7 +2,7 @@
   "date": "2026-08-20",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 2,
+  "skills_mastered": 3,
   "skill_codes": [
     {
       "code": "XP7",
@@ -15,21 +15,19 @@
       "name": "Integer multiplication and division rules",
       "minutes": 3,
       "questions": 24
-    }
-  ],
-  "in_progress": [
+    },
     {
       "code": "MDA",
       "name": "Multiply and divide integers",
-      "minutes": 44,
-      "questions": 18,
-      "score": 89
+      "minutes": 59,
+      "questions": 28
     }
   ],
+  "in_progress": [],
   "skills_touched": 3,
   "regrind_codes": [],
-  "questions": 76,
-  "minutes": 108,
+  "questions": 86,
+  "minutes": 123,
   "trouble_spots": [],
-  "scraped_at": "2026-08-20T20:56:22.502378-07:00"
+  "scraped_at": "2026-08-20T21:15:26.528265-07:00"
 }
