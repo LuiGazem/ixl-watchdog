@@ -2,13 +2,34 @@
   "date": "2026-08-20",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "skills_mastered": 2,
+  "skill_codes": [
+    {
+      "code": "XP7",
+      "name": "Add and subtract integers: word problems",
+      "minutes": 61,
+      "questions": 34
+    },
+    {
+      "code": "XLP",
+      "name": "Integer multiplication and division rules",
+      "minutes": 3,
+      "questions": 24
+    }
+  ],
+  "in_progress": [
+    {
+      "code": "MDA",
+      "name": "Multiply and divide integers",
+      "minutes": 44,
+      "questions": 18,
+      "score": 89
+    }
+  ],
+  "skills_touched": 3,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 76,
+  "minutes": 108,
   "trouble_spots": [],
-  "scraped_at": "2026-08-20T17:42:36.024081-07:00"
+  "scraped_at": "2026-08-20T20:56:22.502378-07:00"
 }
