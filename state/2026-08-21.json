@@ -4,11 +4,25 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "in_progress": [
+    {
+      "code": "Y6W",
+      "name": "Evaluate numerical expressions involving integers",
+      "minutes": 81,
+      "questions": 32,
+      "score": 64
+    }
+  ],
+  "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
-  "trouble_spots": [],
-  "scraped_at": "2026-08-21T17:42:39.390644-07:00"
+  "questions": 32,
+  "minutes": 81,
+  "trouble_spots": [
+    {
+      "name": "8th (A.9)Evaluate numerical expressions involving integers",
+      "detail": "Search shortcut:\u00a0Y6W",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionEvaluate the expression.10\u00f75+8\u00d79Correct answerStudent\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Retrieving"
+    }
+  ],
+  "scraped_at": "2026-08-21T20:49:30.679666-07:00"
 }
