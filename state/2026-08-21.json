@@ -8,15 +8,15 @@
     {
       "code": "Y6W",
       "name": "Evaluate numerical expressions involving integers",
-      "minutes": 101,
-      "questions": 37,
-      "score": 83
+      "minutes": 113,
+      "questions": 39,
+      "score": 80
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 37,
-  "minutes": 101,
+  "questions": 39,
+  "minutes": 113,
   "trouble_spots": [],
-  "scraped_at": "2026-08-21T21:42:44.517716-07:00"
+  "scraped_at": "2026-08-21T23:12:31.786429-07:00"
 }
