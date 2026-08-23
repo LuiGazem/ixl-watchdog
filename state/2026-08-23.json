@@ -8,15 +8,15 @@
     {
       "code": "Y6W",
       "name": "Evaluate numerical expressions involving integers",
-      "minutes": 6,
-      "questions": 1,
-      "score": 71
+      "minutes": 48,
+      "questions": 9,
+      "score": 90
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 1,
-  "minutes": 6,
+  "questions": 9,
+  "minutes": 48,
   "trouble_spots": [
     {
       "name": "8th (A.9)Evaluate numerical expressions involving integers",
@@ -24,5 +24,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionEvaluate the expression.\u20132\u00d7(\u20138+7\u00d7\u20132+\u201310)Correct answerStudent\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Re"
     }
   ],
-  "scraped_at": "2026-08-23T13:33:17.311447-07:00"
+  "scraped_at": "2026-08-23T16:29:12.456181-07:00"
 }
