@@ -8,21 +8,21 @@
     {
       "code": "Y6W",
       "name": "Evaluate numerical expressions involving integers",
-      "minutes": 46,
-      "questions": 15,
-      "score": 85
+      "minutes": 86,
+      "questions": 27,
+      "score": 77
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 15,
-  "minutes": 46,
+  "questions": 27,
+  "minutes": 86,
   "trouble_spots": [
     {
       "name": "8th (A.9)Evaluate numerical expressions involving integers",
       "detail": "Search shortcut:\u00a0Y6W",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionEvaluate the expression.\u20137+(\u20136\u2013\u20131)2Correct answerStudent\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Retriev"
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionEvaluate the expression.(8\u00f72\u00f72)3+6Correct answerStudent\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Retrievi"
     }
   ],
-  "scraped_at": "2026-08-22T17:42:35.415387-07:00"
+  "scraped_at": "2026-08-22T20:56:39.282650-07:00"
 }
