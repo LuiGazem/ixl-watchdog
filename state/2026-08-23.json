@@ -2,27 +2,20 @@
   "date": "2026-08-23",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
       "code": "Y6W",
       "name": "Evaluate numerical expressions involving integers",
-      "minutes": 60,
-      "questions": 12,
-      "score": 99
+      "minutes": 66,
+      "questions": 13
     }
   ],
+  "in_progress": [],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 12,
-  "minutes": 60,
-  "trouble_spots": [
-    {
-      "name": "8th (A.9)Evaluate numerical expressions involving integers",
-      "detail": "Search shortcut:\u00a0Y6W",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionEvaluate the expression.\u20132\u00d7(\u20138+7\u00d7\u20132+\u201310)Correct answerStudent\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Re"
-    }
-  ],
-  "scraped_at": "2026-08-23T17:29:04.042526-07:00"
+  "questions": 13,
+  "minutes": 66,
+  "trouble_spots": [],
+  "scraped_at": "2026-08-23T21:01:10.860534-07:00"
 }
