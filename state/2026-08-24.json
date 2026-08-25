@@ -8,21 +8,15 @@
     {
       "code": "WD6",
       "name": "Convert between repeating decimals and fractions",
-      "minutes": 10,
-      "questions": 12,
-      "score": 35
+      "minutes": 39,
+      "questions": 23,
+      "score": 70
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 12,
-  "minutes": 10,
-  "trouble_spots": [
-    {
-      "name": "8th (B.1)Convert between repeating decimals and fractions",
-      "detail": "Search shortcut:\u00a0WD6",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionHow do you write 0.083 as a fraction?Option, 112Option, 18Option, 14Option, 16Correct answerCorrect answer, 112Option, 18Option, 14Option, 16Student\u00a0 answer"
-    }
-  ],
-  "scraped_at": "2026-08-24T17:42:30.679544-07:00"
+  "questions": 23,
+  "minutes": 39,
+  "trouble_spots": [],
+  "scraped_at": "2026-08-24T20:54:19.456016-07:00"
 }
