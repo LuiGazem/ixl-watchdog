@@ -2,28 +2,34 @@
   "date": "2026-08-25",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 1,
+  "skills_mastered": 2,
   "skill_codes": [
     {
       "code": "WD6",
       "name": "Convert between repeating decimals and fractions",
       "minutes": 10,
       "questions": 4
+    },
+    {
+      "code": "2RC",
+      "name": "Convert between decimals and fractions or mixed numbers",
+      "minutes": 64,
+      "questions": 30
     }
   ],
   "in_progress": [
     {
-      "code": "2RC",
-      "name": "Convert between decimals and fractions or mixed numbers",
-      "minutes": 43,
-      "questions": 22,
-      "score": 84
+      "code": "CNQ",
+      "name": "Counting principle",
+      "minutes": 5,
+      "questions": 3,
+      "score": 28
     }
   ],
-  "skills_touched": 2,
+  "skills_touched": 3,
   "regrind_codes": [],
-  "questions": 26,
-  "minutes": 53,
+  "questions": 37,
+  "minutes": 79,
   "trouble_spots": [],
-  "scraped_at": "2026-08-25T21:43:54.890174-07:00"
+  "scraped_at": "2026-08-25T23:15:08.040504-07:00"
 }
