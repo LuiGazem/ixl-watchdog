@@ -15,15 +15,15 @@
     {
       "code": "2RC",
       "name": "Convert between decimals and fractions or mixed numbers",
-      "minutes": 21,
-      "questions": 11,
-      "score": 57
+      "minutes": 43,
+      "questions": 22,
+      "score": 84
     }
   ],
   "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 15,
-  "minutes": 31,
+  "questions": 26,
+  "minutes": 53,
   "trouble_spots": [],
-  "scraped_at": "2026-08-25T21:12:37.249364-07:00"
+  "scraped_at": "2026-08-25T21:43:54.890174-07:00"
 }
