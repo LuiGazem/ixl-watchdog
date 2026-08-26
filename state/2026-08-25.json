@@ -2,19 +2,28 @@
   "date": "2026-08-25",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
-  "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
-  "trouble_spots": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
-      "name": "8th (B.1)Convert between repeating decimals and fractions",
-      "detail": "Search shortcut:\u00a0WD6",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionHow do you write 389 as a decimal?Option, 3.083Option, 3.8Option, 3.83Option, 3.7Correct answerOption, 3.083Correct answer, 3.8Option, 3.83Option, 3.7Studen"
+      "code": "WD6",
+      "name": "Convert between repeating decimals and fractions",
+      "minutes": 10,
+      "questions": 4
     }
   ],
-  "scraped_at": "2026-08-25T17:42:31.359431-07:00"
+  "in_progress": [
+    {
+      "code": "2RC",
+      "name": "Convert between decimals and fractions or mixed numbers",
+      "minutes": 13,
+      "questions": 8,
+      "score": 52
+    }
+  ],
+  "skills_touched": 2,
+  "regrind_codes": [],
+  "questions": 12,
+  "minutes": 23,
+  "trouble_spots": [],
+  "scraped_at": "2026-08-25T20:59:27.196926-07:00"
 }
