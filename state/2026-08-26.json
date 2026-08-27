@@ -4,11 +4,19 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "in_progress": [
+    {
+      "code": "MUK",
+      "name": "Compare rational numbers",
+      "minutes": 2,
+      "questions": 9,
+      "score": 45
+    }
+  ],
+  "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 9,
+  "minutes": 2,
   "trouble_spots": [],
-  "scraped_at": "2026-08-26T16:19:56.836494-07:00"
+  "scraped_at": "2026-08-26T17:12:33.725667-07:00"
 }
