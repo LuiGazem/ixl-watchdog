@@ -8,15 +8,21 @@
     {
       "code": "MUK",
       "name": "Compare rational numbers",
-      "minutes": 2,
-      "questions": 9,
-      "score": 45
+      "minutes": 15,
+      "questions": 17,
+      "score": 53
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 9,
-  "minutes": 2,
-  "trouble_spots": [],
-  "scraped_at": "2026-08-26T17:42:38.556644-07:00"
+  "questions": 17,
+  "minutes": 15,
+  "trouble_spots": [
+    {
+      "name": "8th (B.3)Compare rational numbers",
+      "detail": "Search shortcut:\u00a0MUK",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionWhich sign makes the statement true?\u201345\u00a0\u00a0\u20131215Option, >Option, <Option, =Correct answerOption, >Option, <Correct answer, =Student\u00a0 answeredOption, >Correct "
+    }
+  ],
+  "scraped_at": "2026-08-26T21:12:58.380387-07:00"
 }
