@@ -2,27 +2,34 @@
   "date": "2026-08-26",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
       "code": "MUK",
       "name": "Compare rational numbers",
-      "minutes": 15,
-      "questions": 17,
-      "score": 53
+      "minutes": 75,
+      "questions": 41
     }
   ],
-  "skills_touched": 1,
+  "in_progress": [
+    {
+      "code": "QP5",
+      "name": "Put rational numbers in order",
+      "minutes": 40,
+      "questions": 17,
+      "score": 71
+    }
+  ],
+  "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 17,
-  "minutes": 15,
+  "questions": 58,
+  "minutes": 115,
   "trouble_spots": [
     {
-      "name": "8th (B.3)Compare rational numbers",
-      "detail": "Search shortcut:\u00a0MUK",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionWhich sign makes the statement true?\u201345\u00a0\u00a0\u20131215Option, >Option, <Option, =Correct answerOption, >Option, <Correct answer, =Student\u00a0 answeredOption, >Correct "
+      "name": "8th (B.4)Put rational numbers in order",
+      "detail": "Search shortcut:\u00a0QP5",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from least to greatest.\u20130.754.45419252240Correct answer\u20130.7522404.4541925Student\u00a0 answered\u20130.752240419254.45QuestionCorrect answe"
     }
   ],
-  "scraped_at": "2026-08-26T21:12:58.380387-07:00"
+  "scraped_at": "2026-08-26T23:15:01.578735-07:00"
 }
