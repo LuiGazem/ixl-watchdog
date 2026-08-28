@@ -2,16 +2,16 @@
   "date": "2026-08-27",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
       "code": "W9G",
       "name": "Evaluate rational expressions",
-      "minutes": 125,
-      "questions": 56,
-      "score": 92
-    },
+      "minutes": 145,
+      "questions": 60
+    }
+  ],
+  "in_progress": [
     {
       "code": "QP7",
       "name": "Add and subtract like terms",
@@ -22,8 +22,8 @@
   ],
   "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 58,
-  "minutes": 126,
+  "questions": 62,
+  "minutes": 146,
   "trouble_spots": [
     {
       "name": "8th (B.4)Put rational numbers in order",
@@ -31,5 +31,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from least to greatest.\u20130.754.45419252240Correct answer\u20130.7522404.4541925Student\u00a0 answered\u20130.752240419254.45QuestionCorrect answe"
     }
   ],
-  "scraped_at": "2026-08-27T21:20:36.263490-07:00"
+  "scraped_at": "2026-08-27T23:12:58.060600-07:00"
 }
