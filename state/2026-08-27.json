@@ -8,9 +8,9 @@
     {
       "code": "W9G",
       "name": "Evaluate rational expressions",
-      "minutes": 123,
-      "questions": 55,
-      "score": 99
+      "minutes": 125,
+      "questions": 56,
+      "score": 92
     },
     {
       "code": "QP7",
@@ -22,8 +22,8 @@
   ],
   "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 57,
-  "minutes": 124,
+  "questions": 58,
+  "minutes": 126,
   "trouble_spots": [
     {
       "name": "8th (B.4)Put rational numbers in order",
@@ -31,5 +31,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from least to greatest.\u20130.754.45419252240Correct answer\u20130.7522404.4541925Student\u00a0 answered\u20130.752240419254.45QuestionCorrect answe"
     }
   ],
-  "scraped_at": "2026-08-27T21:16:40.937869-07:00"
+  "scraped_at": "2026-08-27T21:20:36.263490-07:00"
 }
