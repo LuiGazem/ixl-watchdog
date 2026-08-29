@@ -4,17 +4,25 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "in_progress": [
+    {
+      "code": "QP5",
+      "name": "Put rational numbers in order",
+      "minutes": 75,
+      "questions": 22,
+      "score": 76
+    }
+  ],
+  "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 22,
+  "minutes": 75,
   "trouble_spots": [
     {
       "name": "8th (B.4)Put rational numbers in order",
       "detail": "Search shortcut:\u00a0QP5",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from least to greatest.\u20130.754.45419252240Correct answer\u20130.7522404.4541925Student\u00a0 answered\u20130.752240419254.45QuestionCorrect answe"
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from greatest to least.\u20130.929917259.6591440Correct answer917259.65914409\u20130.92Student\u00a0 answered91725914409.659\u20130.92QuestionCorrect"
     }
   ],
-  "scraped_at": "2026-08-29T02:57:26.268139-07:00"
+  "scraped_at": "2026-08-29T15:35:41.045779-07:00"
 }
