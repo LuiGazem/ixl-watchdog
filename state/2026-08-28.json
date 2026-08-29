@@ -2,21 +2,20 @@
   "date": "2026-08-28",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
       "code": "QP7",
       "name": "Add and subtract like terms",
-      "minutes": 10,
-      "questions": 5,
-      "score": 46
+      "minutes": 84,
+      "questions": 46
     }
   ],
+  "in_progress": [],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 5,
-  "minutes": 10,
+  "questions": 46,
+  "minutes": 84,
   "trouble_spots": [
     {
       "name": "8th (B.4)Put rational numbers in order",
@@ -24,5 +23,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from least to greatest.\u20130.754.45419252240Correct answer\u20130.7522404.4541925Student\u00a0 answered\u20130.752240419254.45QuestionCorrect answe"
     }
   ],
-  "scraped_at": "2026-08-28T17:42:49.241294-07:00"
+  "scraped_at": "2026-08-28T19:47:39.306173-07:00"
 }
