@@ -2,27 +2,28 @@
   "date": "2026-08-29",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
       "code": "QP5",
       "name": "Put rational numbers in order",
-      "minutes": 75,
-      "questions": 22,
-      "score": 76
+      "minutes": 119,
+      "questions": 36
     }
   ],
-  "skills_touched": 1,
-  "regrind_codes": [],
-  "questions": 22,
-  "minutes": 75,
-  "trouble_spots": [
+  "in_progress": [
     {
-      "name": "8th (B.4)Put rational numbers in order",
-      "detail": "Search shortcut:\u00a0QP5",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionPut these numbers in order from greatest to least.\u20130.929917259.6591440Correct answer917259.65914409\u20130.92Student\u00a0 answered91725914409.659\u20130.92QuestionCorrect"
+      "code": "8MF",
+      "name": "Reciprocals and multiplicative inverses",
+      "minutes": 9,
+      "questions": 21,
+      "score": 82
     }
   ],
-  "scraped_at": "2026-08-29T15:35:41.045779-07:00"
+  "skills_touched": 2,
+  "regrind_codes": [],
+  "questions": 57,
+  "minutes": 128,
+  "trouble_spots": [],
+  "scraped_at": "2026-08-29T17:12:34.205887-07:00"
 }
