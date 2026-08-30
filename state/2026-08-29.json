@@ -2,28 +2,26 @@
   "date": "2026-08-29",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 1,
+  "skills_mastered": 2,
   "skill_codes": [
     {
       "code": "QP5",
       "name": "Put rational numbers in order",
       "minutes": 119,
       "questions": 36
-    }
-  ],
-  "in_progress": [
+    },
     {
       "code": "8MF",
       "name": "Reciprocals and multiplicative inverses",
-      "minutes": 9,
-      "questions": 21,
-      "score": 82
+      "minutes": 16,
+      "questions": 37
     }
   ],
+  "in_progress": [],
   "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 57,
-  "minutes": 128,
+  "questions": 73,
+  "minutes": 135,
   "trouble_spots": [],
-  "scraped_at": "2026-08-29T17:12:34.205887-07:00"
+  "scraped_at": "2026-08-29T17:42:29.193178-07:00"
 }
