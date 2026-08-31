@@ -8,15 +8,15 @@
     {
       "code": "Z68",
       "name": "Add and subtract rational numbers",
-      "minutes": 161,
-      "questions": 45,
-      "score": 87
+      "minutes": 183,
+      "questions": 48,
+      "score": 85
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 45,
-  "minutes": 161,
+  "questions": 48,
+  "minutes": 183,
   "trouble_spots": [],
-  "scraped_at": "2026-08-30T21:12:35.320995-07:00"
+  "scraped_at": "2026-08-30T21:42:31.910617-07:00"
 }
