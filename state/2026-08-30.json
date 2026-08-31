@@ -8,21 +8,21 @@
     {
       "code": "Z68",
       "name": "Add and subtract rational numbers",
-      "minutes": 40,
-      "questions": 17,
-      "score": 63
+      "minutes": 67,
+      "questions": 27,
+      "score": 64
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 17,
-  "minutes": 40,
+  "questions": 27,
+  "minutes": 67,
   "trouble_spots": [
     {
       "name": "8th (B.6)Add and subtract rational numbers",
       "detail": "Search shortcut:\u00a0Z68",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionAdd.\u2013412 \u00a0+\u00a0 \u2013635\u00a0=\u00a0Correct answer\u201311 1/10Student\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Current SmartS"
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSubtract.\u2013135 \u00a0\u2212\u00a0 612\u00a0=\u00a0Correct answer\u20138 1/10Student\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Retrieving "
     }
   ],
-  "scraped_at": "2026-08-30T15:39:15.631386-07:00"
+  "scraped_at": "2026-08-30T17:12:32.592918-07:00"
 }
