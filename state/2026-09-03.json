@@ -4,17 +4,19 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
-  "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
-  "trouble_spots": [
+  "in_progress": [
     {
-      "name": "8th (B.6)Add and subtract rational numbers",
-      "detail": "Search shortcut:\u00a0Z68",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionAdd.3.8 + \u20138.5 = Correct answer\u20134.7Student\u00a0 answeredQuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving question...Retrieving question.."
+      "code": "Z68",
+      "name": "Add and subtract rational numbers",
+      "minutes": 66,
+      "questions": 13,
+      "score": 89
     }
   ],
-  "scraped_at": "2026-09-03T17:54:50.410751-07:00"
+  "skills_touched": 1,
+  "regrind_codes": [],
+  "questions": 13,
+  "minutes": 66,
+  "trouble_spots": [],
+  "scraped_at": "2026-09-03T21:22:28.029821-07:00"
 }
