@@ -2,21 +2,28 @@
   "date": "2026-09-03",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 1,
+  "skill_codes": [
     {
       "code": "Z68",
       "name": "Add and subtract rational numbers",
-      "minutes": 66,
-      "questions": 13,
-      "score": 89
+      "minutes": 86,
+      "questions": 19
     }
   ],
-  "skills_touched": 1,
+  "in_progress": [
+    {
+      "code": "ZAL",
+      "name": "Add and subtract rational numbers: word problems",
+      "minutes": 1,
+      "questions": 2,
+      "score": 26
+    }
+  ],
+  "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 13,
-  "minutes": 66,
+  "questions": 21,
+  "minutes": 87,
   "trouble_spots": [],
-  "scraped_at": "2026-09-03T21:22:28.029821-07:00"
+  "scraped_at": "2026-09-03T21:56:59.817964-07:00"
 }
