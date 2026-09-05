@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-05",
+  "sent": [],
+  "padding_flagged": false,
+  "skills_mastered": 0,
+  "skill_codes": [],
+  "in_progress": [],
+  "skills_touched": 0,
+  "regrind_codes": [],
+  "questions": 0,
+  "minutes": 0,
+  "trouble_spots": [
+    {
+      "name": "8th (G.1)Solve proportions",
+      "detail": "Search shortcut:\u00a0BNY",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+    },
+    {
+      "name": "8th (R.1)Identify reflections, rotations, and translations",
+      "detail": "Search shortcut:\u00a0UYL",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionThis graph shows a quadrilateral.Which graph shows a rotation of the quadrilateral?Option, Option, Option, Correct answerOption, Correct answer, Option, Stu"
+    }
+  ],
+  "scraped_at": "2026-09-05T00:36:02.463688-07:00"
+}
