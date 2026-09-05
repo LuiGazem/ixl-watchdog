@@ -4,17 +4,37 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "in_progress": [
+    {
+      "code": "UYL",
+      "name": "Identify reflections, rotations, and translations",
+      "minutes": 29,
+      "questions": 14,
+      "score": 47
+    },
+    {
+      "code": "BNY",
+      "name": "Solve proportions",
+      "minutes": 25,
+      "questions": 6,
+      "score": 10
+    }
+  ],
+  "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 20,
+  "minutes": 54,
   "trouble_spots": [
     {
       "name": "8th (G.1)Solve proportions",
       "detail": "Search shortcut:\u00a0BNY",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for g in the proportion.25\u00a0=\u00a0g40g = Correct answerg = Student\u00a0 answeredg = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+    },
+    {
+      "name": "8th (R.1)Identify reflections, rotations, and translations",
+      "detail": "Search shortcut:\u00a0UYL",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionThis graph shows a quadrilateral.Which graph shows a rotation of the quadrilateral?Option, Option, Option, Correct answerOption, Correct answer, Option, Stu"
     }
   ],
-  "scraped_at": "2026-09-04T21:17:41.537364-07:00"
+  "scraped_at": "2026-09-04T23:12:44.627381-07:00"
 }
