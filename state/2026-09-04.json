@@ -8,9 +8,9 @@
     {
       "code": "UYL",
       "name": "Identify reflections, rotations, and translations",
-      "minutes": 29,
-      "questions": 14,
-      "score": 47
+      "minutes": 40,
+      "questions": 17,
+      "score": 63
     },
     {
       "code": "BNY",
@@ -22,8 +22,8 @@
   ],
   "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 20,
-  "minutes": 54,
+  "questions": 23,
+  "minutes": 65,
   "trouble_spots": [
     {
       "name": "8th (G.1)Solve proportions",
@@ -36,5 +36,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionThis graph shows a quadrilateral.Which graph shows a rotation of the quadrilateral?Option, Option, Option, Correct answerOption, Correct answer, Option, Stu"
     }
   ],
-  "scraped_at": "2026-09-04T23:12:44.627381-07:00"
+  "scraped_at": "2026-09-04T23:50:37.477501-07:00"
 }
