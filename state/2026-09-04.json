@@ -9,6 +9,12 @@
   "regrind_codes": [],
   "questions": 0,
   "minutes": 0,
-  "trouble_spots": [],
-  "scraped_at": "2026-09-04T15:18:55.614903-07:00"
+  "trouble_spots": [
+    {
+      "name": "8th (G.1)Solve proportions",
+      "detail": "Search shortcut:\u00a0BNY",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for g in the proportion.25\u00a0=\u00a0g40g = Correct answerg = Student\u00a0 answeredg = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+    }
+  ],
+  "scraped_at": "2026-09-04T17:42:39.781811-07:00"
 }
