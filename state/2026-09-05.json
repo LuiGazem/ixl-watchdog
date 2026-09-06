@@ -2,32 +2,32 @@
   "date": "2026-09-05",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [
+  "skills_mastered": 2,
+  "skill_codes": [
     {
       "code": "UYL",
       "name": "Identify reflections, rotations, and translations",
-      "minutes": 14,
-      "questions": 28,
-      "score": 81
+      "minutes": 35,
+      "questions": 60
+    },
+    {
+      "code": "XPK",
+      "name": "Describe a sequence of transformations",
+      "minutes": 36,
+      "questions": 51
     }
   ],
-  "skills_touched": 1,
+  "in_progress": [],
+  "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 28,
-  "minutes": 14,
+  "questions": 111,
+  "minutes": 71,
   "trouble_spots": [
-    {
-      "name": "8th (R.1)Identify reflections, rotations, and translations",
-      "detail": "Search shortcut:\u00a0UYL",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionThis graph shows a triangle.Which graph shows a rotation of the triangle?Option, Option, Option, Correct answerOption, Option, Correct answer, Student\u00a0 answ"
-    },
     {
       "name": "8th (G.1)Solve proportions",
       "detail": "Search shortcut:\u00a0BNY",
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
     }
   ],
-  "scraped_at": "2026-09-05T21:42:29.383065-07:00"
+  "scraped_at": "2026-09-05T23:12:27.855509-07:00"
 }
