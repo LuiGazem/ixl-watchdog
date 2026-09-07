@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-07",
+  "sent": [],
+  "padding_flagged": false,
+  "skills_mastered": 0,
+  "skill_codes": [],
+  "in_progress": [
+    {
+      "code": "XUS",
+      "name": "Translations: graph the image",
+      "minutes": 6,
+      "questions": 1,
+      "score": 52
+    }
+  ],
+  "skills_touched": 1,
+  "regrind_codes": [],
+  "questions": 1,
+  "minutes": 6,
+  "trouble_spots": [
+    {
+      "name": "8th (R.3)Translations: graph the image",
+      "detail": "Search shortcut:\u00a0XUS",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionGraph the image of \u25b3PQR after a translation 7 units left.-10-8-6-4-2246810-10-8-6-4-2246810xyPQRCorrect answer-10-8-6-4-2246810-10-8-6-4-2246810xyPQRStudent"
+    },
+    {
+      "name": "8th (G.1)Solve proportions",
+      "detail": "Search shortcut:\u00a0BNY",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+    }
+  ],
+  "scraped_at": "2026-09-07T01:11:23.954938-07:00"
+}
