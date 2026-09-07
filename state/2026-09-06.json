@@ -4,11 +4,19 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "in_progress": [
+    {
+      "code": "XUS",
+      "name": "Translations: graph the image",
+      "minutes": 2,
+      "questions": 7,
+      "score": 34
+    }
+  ],
+  "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 7,
+  "minutes": 2,
   "trouble_spots": [
     {
       "name": "8th (G.1)Solve proportions",
@@ -16,5 +24,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
     }
   ],
-  "scraped_at": "2026-09-06T15:04:50.958183-07:00"
+  "scraped_at": "2026-09-06T17:24:13.007774-07:00"
 }
