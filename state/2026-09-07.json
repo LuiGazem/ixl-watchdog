@@ -15,26 +15,21 @@
     {
       "code": "RUP",
       "name": "Translations: find the coordinates",
-      "minutes": 40,
-      "questions": 15,
-      "score": 49
+      "minutes": 118,
+      "questions": 44,
+      "score": 85
     }
   ],
   "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 34,
-  "minutes": 102,
+  "questions": 63,
+  "minutes": 180,
   "trouble_spots": [
     {
       "name": "8th (G.1)Solve proportions",
       "detail": "Search shortcut:\u00a0BNY",
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
-    },
-    {
-      "name": "8th (R.4)Translations: find the coordinates",
-      "detail": "Search shortcut:\u00a0RUP",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionWrite the coordinates of the vertices after a translation 4 units left and 2 units down.-10-8-6-4-2246810-10-8-6-4-2246810xyTUVT'i,iU'i,iV'i,iCorrect answer"
     }
   ],
-  "scraped_at": "2026-09-07T21:23:43.961645-07:00"
+  "scraped_at": "2026-09-07T23:12:37.173023-07:00"
 }
