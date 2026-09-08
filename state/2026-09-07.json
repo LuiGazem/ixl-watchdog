@@ -8,15 +8,15 @@
     {
       "code": "XUS",
       "name": "Translations: graph the image",
-      "minutes": 6,
-      "questions": 1,
-      "score": 52
+      "minutes": 7,
+      "questions": 2,
+      "score": 58
     }
   ],
   "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 1,
-  "minutes": 6,
+  "questions": 2,
+  "minutes": 7,
   "trouble_spots": [
     {
       "name": "8th (R.3)Translations: graph the image",
@@ -29,5 +29,5 @@
       "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
     }
   ],
-  "scraped_at": "2026-09-07T17:22:57.760913-07:00"
+  "scraped_at": "2026-09-07T18:06:51.943109-07:00"
 }
