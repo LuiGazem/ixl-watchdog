@@ -2,19 +2,44 @@
   "date": "2026-09-08",
   "sent": [],
   "padding_flagged": false,
-  "skills_mastered": 0,
-  "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "skills_mastered": 1,
+  "skill_codes": [
+    {
+      "code": "RUP",
+      "name": "Translations: find the coordinates",
+      "minutes": 65,
+      "questions": 20
+    }
+  ],
+  "in_progress": [
+    {
+      "code": "VAY",
+      "name": "Describe transformations",
+      "minutes": 3,
+      "questions": 9,
+      "score": 14
+    }
+  ],
+  "skills_touched": 2,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 29,
+  "minutes": 68,
   "trouble_spots": [
+    {
+      "name": "8th (R.5)Translations: write the rule",
+      "detail": "Search shortcut:\u00a06XB",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestion\u25b3G'H'I' is a translation of \u25b3GHI. Write the translation rule.-10-8-6-4-2246810-10-8-6-4-22468100xyGHIG'H'I'(x,y)\u21a6ix+,y\u2013iCorrect answer(x,y)\u21a6ix+,y\u2013iStudent\u00a0 "
+    },
+    {
+      "name": "8th (R.13)Describe transformations",
+      "detail": "Search shortcut:\u00a0VAY",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionThe graph shows quadrilaterals CDEF and C'D'E'F'.-10-9-8-7-6-5-4-3-2-112345678910-10-9-8-7-6-5-4-3-2-112345678910xyCDEFC'D'E'F'Which of the following transf"
+    },
     {
       "name": "8th (G.1)Solve proportions",
       "detail": "Search shortcut:\u00a0BNY",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPERetrieving question...Retrieving question...Retrieving question...Retrieving question...Retrieving question...Retrieving question...Current SmartScore:\u00a0106\u00a0missed q"
     }
   ],
-  "scraped_at": "2026-09-08T18:11:29.315733-07:00"
+  "scraped_at": "2026-09-08T21:26:47.454752-07:00"
 }
