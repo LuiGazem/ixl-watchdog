@@ -4,11 +4,19 @@
   "padding_flagged": false,
   "skills_mastered": 0,
   "skill_codes": [],
-  "in_progress": [],
-  "skills_touched": 0,
+  "in_progress": [
+    {
+      "code": "6XB",
+      "name": "Translations: write the rule",
+      "minutes": 85,
+      "questions": 29,
+      "score": 82
+    }
+  ],
+  "skills_touched": 1,
   "regrind_codes": [],
-  "questions": 0,
-  "minutes": 0,
+  "questions": 29,
+  "minutes": 85,
   "trouble_spots": [
     {
       "name": "8th (R.13)Describe transformations",
@@ -23,8 +31,8 @@
     {
       "name": "8th (R.5)Translations: write the rule",
       "detail": "Search shortcut:\u00a06XB",
-      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionQuadrilateral W'X'Y'Z' is a translation of quadrilateral WXYZ. Write the translation rule.-10-8-6-4-2246810-10-8-6-4-22468100xyWXYZW'X'Y'Z'(x,y)\u21a6ix+,y\u2013iCorr"
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionParallelogram U'V'W'X' is a translation of parallelogram UVWX. Write the translation rule.-10-8-6-4-2246810-10-8-6-4-22468100xyUVWXU'V'W'X'(x,y)\u21a6i,iCorrect "
     }
   ],
-  "scraped_at": "2026-09-09T17:59:26.062924-07:00"
+  "scraped_at": "2026-09-09T23:12:26.441341-07:00"
 }
