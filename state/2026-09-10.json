@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-10",
+  "sent": [],
+  "padding_flagged": false,
+  "skills_mastered": 0,
+  "skill_codes": [],
+  "in_progress": [],
+  "skills_touched": 0,
+  "regrind_codes": [],
+  "questions": 0,
+  "minutes": 0,
+  "trouble_spots": [
+    {
+      "name": "8th (R.13)Describe transformations",
+      "detail": "Search shortcut:\u00a0VAY",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionThe graph shows triangles QRS and Q'R'S'.-10-9-8-7-6-5-4-3-2-112345678910-10-9-8-7-6-5-4-3-2-112345678910xyQRSQ'R'S'Which of the following transformations m"
+    },
+    {
+      "name": "8th (G.1)Solve proportions",
+      "detail": "Search shortcut:\u00a0BNY",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionSolve for c in the proportion.189\u00a0=\u00a0c3c = Correct answerc = Student\u00a0 answeredc = QuestionCorrect answerStudent\u00a0 answeredRetrieving question...Retrieving que"
+    },
+    {
+      "name": "8th (R.5)Translations: write the rule",
+      "detail": "Search shortcut:\u00a06XB",
+      "info": "MISSED QUESTIONS FROM THIS ITEM TYPEQuestionParallelogram U'V'W'X' is a translation of parallelogram UVWX. Write the translation rule.-10-8-6-4-2246810-10-8-6-4-22468100xyUVWXU'V'W'X'(x,y)\u21a6i,iCorrect "
+    }
+  ],
+  "scraped_at": "2026-09-10T01:03:02.219151-07:00"
+}
